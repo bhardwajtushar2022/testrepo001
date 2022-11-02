@@ -1,2 +1,4 @@
 test 6543
 abc test
+
+added a new line to file 2
